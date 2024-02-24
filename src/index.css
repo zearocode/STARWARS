@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Soloist";
+    src: url("../public/fonts/Soloist.otf");
+  }
